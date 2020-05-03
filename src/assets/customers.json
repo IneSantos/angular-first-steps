@@ -1,0 +1,32 @@
+[
+    {
+       "id": 1, 
+       "name": "Maria João",
+       "city": "Phoenix",
+       "orderTotal": 49.99     
+    },
+    {
+        "id": 2, 
+        "name": "Jose Maia",
+        "city": "Chandler",
+        "orderTotal": 12.99
+     },
+     {
+        "id": 3, 
+        "name": "Elisa Rodrigues",
+        "city": "Seattle",
+        "orderTotal":  5.99
+     },
+     {
+        "id": 4, 
+        "name": "Emilia Santos",
+        "city": "New York",
+        "orderTotal": 123.99    
+     },
+     {
+        "id": 5, 
+        "name": "Celia Carneiro",
+        "city": "Porto",
+        "orderTotal": 55.99    
+     }
+]
